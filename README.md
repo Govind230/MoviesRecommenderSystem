@@ -1,2 +1,2 @@
 # MoviesRecommenderSystem
-This website suggests you top 10 movies like as given input.
+This website suggests you top 10 movies based on given input.
